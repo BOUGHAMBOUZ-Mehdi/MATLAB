@@ -1,2 +1,2 @@
 # MATLAB
-Tp_Reconnaissance de formes
+Reconnaissance de formes
